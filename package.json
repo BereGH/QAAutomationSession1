@@ -1,0 +1,14 @@
+{
+  "name": "automation-workshop-exercises",
+  "version": "1.0.0",
+  "description": "testcafe-workshop-exc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BereGH",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
